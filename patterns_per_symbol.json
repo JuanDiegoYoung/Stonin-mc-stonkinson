@@ -1,0 +1,721 @@
+{
+    "BTCUSDT": [
+        {
+            "pattern": "dw_dw_dw",
+            "tendency": -1,
+            "direction": "up"
+        },
+        {
+            "pattern": "dw_dw_dw",
+            "tendency": 1,
+            "direction": "up"
+        },
+        {
+            "pattern": "dw_up_dw",
+            "tendency": -1,
+            "direction": "up"
+        },
+        {
+            "pattern": "dw_up_up",
+            "tendency": -1,
+            "direction": "dw"
+        },
+        {
+            "pattern": "dw_up_up",
+            "tendency": 1,
+            "direction": "dw"
+        },
+        {
+            "pattern": "up_dw_dw",
+            "tendency": -1,
+            "direction": "up"
+        },
+        {
+            "pattern": "up_up_dw",
+            "tendency": -1,
+            "direction": "up"
+        },
+        {
+            "pattern": "up_up_up",
+            "tendency": 1,
+            "direction": "dw"
+        }
+    ],
+    "AVAXUSDT": [
+        {
+            "pattern": "dw_dw_up",
+            "tendency": 1,
+            "direction": "dw"
+        },
+        {
+            "pattern": "dw_up_up",
+            "tendency": -1,
+            "direction": "dw"
+        },
+        {
+            "pattern": "dw_up_up",
+            "tendency": 1,
+            "direction": "dw"
+        },
+        {
+            "pattern": "up_dw_up",
+            "tendency": -1,
+            "direction": "dw"
+        },
+        {
+            "pattern": "up_up_up",
+            "tendency": 1,
+            "direction": "dw"
+        }
+    ],
+    "BNBUSDT": [
+        {
+            "pattern": "dw_dw_up",
+            "tendency": 1,
+            "direction": "dw"
+        },
+        {
+            "pattern": "dw_up_up",
+            "tendency": -1,
+            "direction": "dw"
+        },
+        {
+            "pattern": "dw_up_up",
+            "tendency": 1,
+            "direction": "dw"
+        },
+        {
+            "pattern": "up_dw_up",
+            "tendency": 1,
+            "direction": "dw"
+        },
+        {
+            "pattern": "up_up_up",
+            "tendency": -1,
+            "direction": "dw"
+        },
+        {
+            "pattern": "up_up_up",
+            "tendency": 1,
+            "direction": "dw"
+        }
+    ],
+    "ADAUSDT": [
+        {
+            "pattern": "dw_dw_dw",
+            "tendency": -1,
+            "direction": "up"
+        },
+        {
+            "pattern": "dw_dw_up",
+            "tendency": 1,
+            "direction": "dw"
+        },
+        {
+            "pattern": "dw_up_dw",
+            "tendency": -1,
+            "direction": "up"
+        },
+        {
+            "pattern": "dw_up_up",
+            "tendency": -1,
+            "direction": "dw"
+        },
+        {
+            "pattern": "dw_up_up",
+            "tendency": 1,
+            "direction": "dw"
+        },
+        {
+            "pattern": "up_dw_dw",
+            "tendency": -1,
+            "direction": "up"
+        },
+        {
+            "pattern": "up_dw_up",
+            "tendency": 1,
+            "direction": "dw"
+        },
+        {
+            "pattern": "up_up_up",
+            "tendency": -1,
+            "direction": "dw"
+        },
+        {
+            "pattern": "up_up_up",
+            "tendency": 1,
+            "direction": "dw"
+        }
+    ],
+    "DOGEUSDT": [
+        {
+            "pattern": "dw_dw_dw",
+            "tendency": -1,
+            "direction": "up"
+        },
+        {
+            "pattern": "dw_dw_dw",
+            "tendency": 1,
+            "direction": "up"
+        },
+        {
+            "pattern": "dw_dw_up",
+            "tendency": 1,
+            "direction": "dw"
+        },
+        {
+            "pattern": "dw_up_dw",
+            "tendency": -1,
+            "direction": "up"
+        },
+        {
+            "pattern": "dw_up_up",
+            "tendency": -1,
+            "direction": "dw"
+        },
+        {
+            "pattern": "dw_up_up",
+            "tendency": 1,
+            "direction": "dw"
+        },
+        {
+            "pattern": "up_dw_dw",
+            "tendency": -1,
+            "direction": "up"
+        },
+        {
+            "pattern": "up_dw_dw",
+            "tendency": 1,
+            "direction": "up"
+        },
+        {
+            "pattern": "up_dw_up",
+            "tendency": 1,
+            "direction": "dw"
+        },
+        {
+            "pattern": "up_up_up",
+            "tendency": -1,
+            "direction": "dw"
+        },
+        {
+            "pattern": "up_up_up",
+            "tendency": 1,
+            "direction": "dw"
+        }
+    ],
+    "ATOMUSDT": [
+        {
+            "pattern": "dw_dw_dw",
+            "tendency": -1,
+            "direction": "up"
+        },
+        {
+            "pattern": "dw_dw_dw",
+            "tendency": 1,
+            "direction": "up"
+        },
+        {
+            "pattern": "dw_dw_up",
+            "tendency": 1,
+            "direction": "dw"
+        },
+        {
+            "pattern": "dw_up_up",
+            "tendency": -1,
+            "direction": "dw"
+        },
+        {
+            "pattern": "dw_up_up",
+            "tendency": 1,
+            "direction": "dw"
+        },
+        {
+            "pattern": "up_dw_dw",
+            "tendency": -1,
+            "direction": "up"
+        },
+        {
+            "pattern": "up_dw_up",
+            "tendency": 1,
+            "direction": "dw"
+        },
+        {
+            "pattern": "up_up_up",
+            "tendency": 1,
+            "direction": "dw"
+        }
+    ],
+    "DOTUSDT": [
+        {
+            "pattern": "dw_dw_up",
+            "tendency": -1,
+            "direction": "dw"
+        },
+        {
+            "pattern": "dw_dw_up",
+            "tendency": 1,
+            "direction": "dw"
+        },
+        {
+            "pattern": "dw_up_up",
+            "tendency": 1,
+            "direction": "dw"
+        },
+        {
+            "pattern": "up_dw_dw",
+            "tendency": -1,
+            "direction": "up"
+        },
+        {
+            "pattern": "up_dw_up",
+            "tendency": 1,
+            "direction": "dw"
+        },
+        {
+            "pattern": "up_up_up",
+            "tendency": 1,
+            "direction": "dw"
+        }
+    ],
+    "ETHUSDT": [
+        {
+            "pattern": "dw_dw_dw",
+            "tendency": -1,
+            "direction": "up"
+        },
+        {
+            "pattern": "dw_dw_dw",
+            "tendency": 1,
+            "direction": "up"
+        },
+        {
+            "pattern": "dw_dw_up",
+            "tendency": 1,
+            "direction": "dw"
+        },
+        {
+            "pattern": "dw_up_dw",
+            "tendency": -1,
+            "direction": "up"
+        },
+        {
+            "pattern": "dw_up_up",
+            "tendency": -1,
+            "direction": "dw"
+        },
+        {
+            "pattern": "dw_up_up",
+            "tendency": 1,
+            "direction": "dw"
+        },
+        {
+            "pattern": "up_dw_dw",
+            "tendency": -1,
+            "direction": "up"
+        },
+        {
+            "pattern": "up_dw_dw",
+            "tendency": 1,
+            "direction": "up"
+        },
+        {
+            "pattern": "up_up_dw",
+            "tendency": -1,
+            "direction": "up"
+        },
+        {
+            "pattern": "up_up_up",
+            "tendency": -1,
+            "direction": "dw"
+        },
+        {
+            "pattern": "up_up_up",
+            "tendency": 1,
+            "direction": "dw"
+        }
+    ],
+    "TONUSDT": [
+        {
+            "pattern": "dw_dw_dw",
+            "tendency": -1,
+            "direction": "up"
+        },
+        {
+            "pattern": "dw_up_dw",
+            "tendency": -1,
+            "direction": "up"
+        },
+        {
+            "pattern": "dw_up_up",
+            "tendency": 1,
+            "direction": "dw"
+        },
+        {
+            "pattern": "up_dw_dw",
+            "tendency": -1,
+            "direction": "up"
+        },
+        {
+            "pattern": "up_dw_up",
+            "tendency": -1,
+            "direction": "dw"
+        },
+        {
+            "pattern": "up_dw_up",
+            "tendency": 1,
+            "direction": "dw"
+        },
+        {
+            "pattern": "up_up_dw",
+            "tendency": 1,
+            "direction": "dw"
+        },
+        {
+            "pattern": "up_up_up",
+            "tendency": -1,
+            "direction": "dw"
+        }
+    ],
+    "MATICUSDT": [
+        {
+            "pattern": "dw_dw_dw",
+            "tendency": -1,
+            "direction": "up"
+        },
+        {
+            "pattern": "dw_dw_up",
+            "tendency": 1,
+            "direction": "dw"
+        },
+        {
+            "pattern": "dw_up_dw",
+            "tendency": -1,
+            "direction": "dw"
+        },
+        {
+            "pattern": "dw_up_up",
+            "tendency": -1,
+            "direction": "dw"
+        },
+        {
+            "pattern": "up_dw_dw",
+            "tendency": -1,
+            "direction": "up"
+        },
+        {
+            "pattern": "up_dw_up",
+            "tendency": -1,
+            "direction": "dw"
+        },
+        {
+            "pattern": "up_dw_up",
+            "tendency": 1,
+            "direction": "dw"
+        },
+        {
+            "pattern": "up_up_up",
+            "tendency": -1,
+            "direction": "dw"
+        },
+        {
+            "pattern": "up_up_up",
+            "tendency": 1,
+            "direction": "dw"
+        }
+    ],
+    "LINKUSDT": [
+        {
+            "pattern": "dw_dw_dw",
+            "tendency": -1,
+            "direction": "up"
+        },
+        {
+            "pattern": "dw_dw_up",
+            "tendency": -1,
+            "direction": "dw"
+        },
+        {
+            "pattern": "dw_dw_up",
+            "tendency": 1,
+            "direction": "dw"
+        },
+        {
+            "pattern": "dw_up_up",
+            "tendency": 1,
+            "direction": "dw"
+        },
+        {
+            "pattern": "up_dw_dw",
+            "tendency": -1,
+            "direction": "up"
+        },
+        {
+            "pattern": "up_dw_up",
+            "tendency": -1,
+            "direction": "dw"
+        },
+        {
+            "pattern": "up_up_up",
+            "tendency": -1,
+            "direction": "dw"
+        },
+        {
+            "pattern": "up_up_up",
+            "tendency": 1,
+            "direction": "dw"
+        }
+    ],
+    "LTCUSDT": [
+        {
+            "pattern": "dw_dw_dw",
+            "tendency": -1,
+            "direction": "up"
+        },
+        {
+            "pattern": "dw_dw_dw",
+            "tendency": 1,
+            "direction": "up"
+        },
+        {
+            "pattern": "dw_dw_up",
+            "tendency": 1,
+            "direction": "dw"
+        },
+        {
+            "pattern": "dw_up_dw",
+            "tendency": -1,
+            "direction": "up"
+        },
+        {
+            "pattern": "dw_up_up",
+            "tendency": 1,
+            "direction": "dw"
+        },
+        {
+            "pattern": "up_dw_dw",
+            "tendency": -1,
+            "direction": "up"
+        },
+        {
+            "pattern": "up_dw_up",
+            "tendency": 1,
+            "direction": "dw"
+        },
+        {
+            "pattern": "up_up_dw",
+            "tendency": -1,
+            "direction": "up"
+        },
+        {
+            "pattern": "up_up_dw",
+            "tendency": 1,
+            "direction": "dw"
+        },
+        {
+            "pattern": "up_up_up",
+            "tendency": -1,
+            "direction": "dw"
+        },
+        {
+            "pattern": "up_up_up",
+            "tendency": 1,
+            "direction": "dw"
+        }
+    ],
+    "SHIBUSDT": [
+        {
+            "pattern": "dw_dw_up",
+            "tendency": -1,
+            "direction": "dw"
+        },
+        {
+            "pattern": "dw_dw_up",
+            "tendency": 1,
+            "direction": "dw"
+        },
+        {
+            "pattern": "dw_up_dw",
+            "tendency": -1,
+            "direction": "dw"
+        },
+        {
+            "pattern": "dw_up_up",
+            "tendency": -1,
+            "direction": "dw"
+        },
+        {
+            "pattern": "dw_up_up",
+            "tendency": 1,
+            "direction": "dw"
+        },
+        {
+            "pattern": "up_dw_up",
+            "tendency": -1,
+            "direction": "dw"
+        },
+        {
+            "pattern": "up_up_up",
+            "tendency": -1,
+            "direction": "dw"
+        },
+        {
+            "pattern": "up_up_up",
+            "tendency": 1,
+            "direction": "dw"
+        }
+    ],
+    "NEARUSDT": [
+        {
+            "pattern": "dw_dw_up",
+            "tendency": -1,
+            "direction": "dw"
+        },
+        {
+            "pattern": "dw_dw_up",
+            "tendency": 1,
+            "direction": "dw"
+        },
+        {
+            "pattern": "dw_up_up",
+            "tendency": 1,
+            "direction": "dw"
+        },
+        {
+            "pattern": "up_dw_dw",
+            "tendency": -1,
+            "direction": "up"
+        },
+        {
+            "pattern": "up_dw_up",
+            "tendency": -1,
+            "direction": "dw"
+        },
+        {
+            "pattern": "up_dw_up",
+            "tendency": 1,
+            "direction": "dw"
+        },
+        {
+            "pattern": "up_up_up",
+            "tendency": -1,
+            "direction": "dw"
+        },
+        {
+            "pattern": "up_up_up",
+            "tendency": 1,
+            "direction": "dw"
+        }
+    ],
+    "UNIUSDT": [
+        {
+            "pattern": "dw_dw_dw",
+            "tendency": -1,
+            "direction": "up"
+        },
+        {
+            "pattern": "dw_dw_dw",
+            "tendency": 1,
+            "direction": "dw"
+        },
+        {
+            "pattern": "dw_dw_up",
+            "tendency": 1,
+            "direction": "dw"
+        },
+        {
+            "pattern": "dw_up_dw",
+            "tendency": -1,
+            "direction": "dw"
+        },
+        {
+            "pattern": "dw_up_up",
+            "tendency": -1,
+            "direction": "dw"
+        },
+        {
+            "pattern": "dw_up_up",
+            "tendency": 1,
+            "direction": "dw"
+        },
+        {
+            "pattern": "up_dw_up",
+            "tendency": -1,
+            "direction": "dw"
+        },
+        {
+            "pattern": "up_up_up",
+            "tendency": -1,
+            "direction": "dw"
+        }
+    ],
+    "SOLUSDT": [
+        {
+            "pattern": "dw_dw_dw",
+            "tendency": 1,
+            "direction": "up"
+        },
+        {
+            "pattern": "dw_up_up",
+            "tendency": 1,
+            "direction": "dw"
+        },
+        {
+            "pattern": "up_dw_dw",
+            "tendency": -1,
+            "direction": "up"
+        },
+        {
+            "pattern": "up_up_up",
+            "tendency": -1,
+            "direction": "dw"
+        },
+        {
+            "pattern": "up_up_up",
+            "tendency": 1,
+            "direction": "dw"
+        }
+    ],
+    "XRPUSDT": [
+        {
+            "pattern": "dw_dw_dw",
+            "tendency": -1,
+            "direction": "up"
+        },
+        {
+            "pattern": "dw_dw_dw",
+            "tendency": 1,
+            "direction": "up"
+        },
+        {
+            "pattern": "dw_up_dw",
+            "tendency": -1,
+            "direction": "up"
+        },
+        {
+            "pattern": "dw_up_up",
+            "tendency": -1,
+            "direction": "up"
+        },
+        {
+            "pattern": "dw_up_up",
+            "tendency": 1,
+            "direction": "dw"
+        },
+        {
+            "pattern": "up_dw_dw",
+            "tendency": -1,
+            "direction": "up"
+        },
+        {
+            "pattern": "up_up_up",
+            "tendency": -1,
+            "direction": "dw"
+        },
+        {
+            "pattern": "up_up_up",
+            "tendency": 1,
+            "direction": "dw"
+        }
+    ]
+}
